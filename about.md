@@ -16,7 +16,7 @@ Over the years Jamoma has been supported in various ways through not only the co
 * [Hordaland County Council - Kulturelt utviklingsprogram (KUP)](http://www.hordaland.no/Hordaland-fylkeskommune/Kultur/Kulturelt-utviklingsprogram-KUP/)
 * [USA-Norway Fulbright Foundation](http://www.fulbright.no/)
 
-* [Bergen National Academy of the Arts](http://www.khib.no/ through the "Norwegian Artistic Research Fellowship Programme":http://artistic-research.no/?lang=en)
+* [Bergen National Academy of the Arts](http://www.khib.no/) through the [Norwegian Artistic Research Fellowship Programme](http://artistic-research.no/?lang=en)
 * [Canada Council for the Arts (CCA)](http://www.canadacouncil.ca/)
 * [COST Action on Gesture Controlled Audio Systems (ConGAS)](http://www.cost287.org/)
 * [COST Action on Sonic Interaction Design (SID)](http://www.cost-sid.org/)
@@ -27,7 +27,7 @@ Over the years Jamoma has been supported in various ways through not only the co
 * [Norwegian Research Council](http://www.forskningsradet.no/)
 * [The Municipality of Bergen](http://www.bergen.kommune.no/)
 * [University of Oslo](http://www.fourms.uio.no/)
-* The French National Agency for Research through the "Virage](http://www.virage-platform.org/) research platform
+* The French National Agency for Research through the [Virage](http://www.virage-platform.org/) research platform
 
 ----
 
